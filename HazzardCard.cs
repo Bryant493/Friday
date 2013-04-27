@@ -5,6 +5,9 @@ using System.Text;
 
 namespace Friday
 {
+    /**
+     * Class that represents a hazzard card which has a hazzard side and a Robinson side.  It implements the interface card.
+     */ 
     class HazzardCard : Card
     {
         private String hazzardName;
